@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "Makers Magnet - The place to talk about Making"
+title = "Makers Magnet 🧲 - Where Makers Meet"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
@@ -32,7 +32,7 @@ title = "Makers Magnet - The place to talk about Making"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Jane Doe - Nutrition Coach & Chef Consultant"
+    title = "Makers Magnet 🧲 - Where Makers Meet"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
